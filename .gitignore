@@ -1,0 +1,7 @@
+# Compiled binaries
+*.out
+*.o
+/tmp/
+
+# Output file (generated on each run)
+io/output.txt
