@@ -1,2 +1,0 @@
-Value of a: 34
-Value of b : 23
